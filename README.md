@@ -1,2 +1,2 @@
 # Speech_Analysis_Program
-This project will analyze any speech inputted by the user in the file format ".txt". 
+This project processes speech input provided by the user in the ".txt" file format. The program enables users to upload speeches, facilitating in-depth analysis of speech content and execution of various statistical computations. These computations include word count, average word and sentence lengths, as well as readability scores. Additionally, the project generates word cloud visuals derived from the preivously stated statistical insights. Furthermore, the software proficiently executes user-initiated searches.
